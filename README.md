@@ -1,0 +1,5 @@
+DISCLAIMER!!!
+
+PLEASE NOTE THAT THIS WEBSITE IS NOT FULLY FUNCTIONAL AND WAS ONLY DESIGNED FOR EDUCATIONAL PURPOSES. SOME OF THE INFORMATION ABOUT THE COMPANY MAY BE ACCURATE, BUT THIS SITE IS NOT AN OFFICIAL COMPANY SITE. I DO NOT HAVE ANY ASSOCIATION WITH GAME CRAZE. PLEASE DO NOT TRY TO CONTACT THEM WITH QUESTIONS ABOUT THIS SITE AS A MAJORITY OF THE INFIORMATION IS MOST LIKELY INCORRECT. 
+
+This website was designed as a store for the real life game store called Game Craze. That being said it was not actually meant for the store to use, it was meant to be used for educational purposes only as mentioned in the disclaimer above. Theoretically you can buy old and new video games from this website. There is some javascript for the projects page that creates a slideshow of 3 games and a rollover effect for a couple of games at the bottom. There is some form validation using spry, but it certainly could use improvement. This project ended up being incomplete, but I did my best to make it seem realistic despite missing a lot of information. I also would need to fix the images sizes if I were to remake this site. 
