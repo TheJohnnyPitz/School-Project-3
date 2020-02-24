@@ -1,0 +1,92 @@
+@charset "utf-8";
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 1em;
+	background: #ccc url(images/background_off.jpg);
+	background-repeat: repeat;
+	margin: 0px;
+	padding: 0px;
+	color: black;
+}
+#header   {background: #036 url(images/banner_off.jpg);
+	       height: 60px;
+		   width: 600px;
+		   margin-left: auto;
+		   margin-right: auto;}
+
+h1        {position: absolute;
+	       height: 0;
+           overflow: hidden;}
+		   
+h2, h3, h4 {text-align: center;}
+
+#layer1 {position:relative; font-size:50px; z-index:2; text-align: center; color: red;}
+#layer2 {position:relative; top:-70px; left:5; color:blue; font-size:3em; z-index: 1; text-align: center;}
+
+#nav {text-align: center;
+      margin: 1em;
+	  background-color: #F30;
+	  height: 1.5em;}
+		   
+#nav a {display: inline;
+	   color: #000;
+	   margin: 0.5em;
+	   text-decoration: none;}	
+
+#nav a:visited {color: #ccc}	   
+#nav a:hover {background: #666;} 
+		   
+#container {position absolute;
+            width: 800px;
+			height: auto;
+            border-width: 0;
+			margin: auto;
+            margin-top: 1px;
+			background-color: #fff;
+			padding-top: 1em;
+			padding-bottom: 1em;
+			min-height:550px;}
+			
+ol a, p a, a {text-decoration: underline;
+      color: #000}
+	  
+#rightsidebar {float: right;
+               width: 150px;
+			   background-color: #fff;
+			   padding-left: 1em;
+			   padding-right: 1em;
+			   height: auto;}
+			
+#content {margin-left: 12em;
+          margin-right: 12em;
+		  margin-top: 1em;
+		  margin-bottom: 1em;
+		  padding-left: 2em;
+		  padding-right: 1em;}
+
+#price h3 {text-align: left}
+
+#leftsidebar {float: left;
+	   background-color: #fff;
+	   padding-right: 1em;
+	   padding-left: 1em;
+	   height: auto;}
+	   
+#leftsidebar ul {list-style: none;}
+
+#leftsidebar ul a {text-decoration: none;
+            color: #000;}
+
+#leftsidebar a:visited {color: #999}	   
+#leftsidebar a:hover {background: #666;} 
+			
+img {border: solid #000 1px;
+     margin: 0.5em 1em;}
+
+fieldset {margin-bottom: 10px; padding: 10px;}
+
+label.blockLabel {display: block; position: relative; margin: 12px 0px}
+label.blockLabel input, label.blockLabel select {position: absolute; left: 150px; margin-left: 20px;}
+
+address {text-align: center;}
+			
